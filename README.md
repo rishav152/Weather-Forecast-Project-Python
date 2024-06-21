@@ -1,4 +1,4 @@
-# Weather-Forecast-Project-Python
+# Weather-Forecast-Python
 
 Simple Weather Forecast Python
 
